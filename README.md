@@ -26,6 +26,8 @@ The Power BI dashboard provides an interactive experience, allowing users to div
 Power BI Dashboard Screenshot
 
 Excel Financial Models
+![Screenshot 2023-12-14 at 8 40 54 PM](https://github.com/mohitpandey28/Hospitality-Analytics/assets/149960816/eb572402-c429-4b03-9c9c-33216d3b2d2b)
+![Screenshot 2023-12-14 at 8 41 29 PM](https://github.com/mohitpandey28/Hospitality-Analytics/assets/149960816/052a4eee-82c6-4a4f-9fdf-8d54fe5e81b7)
 
 
 Excel was utilized to create comprehensive financial models, offering detailed insights into various financial aspects.
