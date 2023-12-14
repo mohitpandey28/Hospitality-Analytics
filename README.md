@@ -4,11 +4,11 @@ Welcome to the Bank Analytics Project, where I conducted an in-depth analysis of
 
 Technologies Used
 
-Tableau: Developed dynamic visualizations to uncover trends and patterns in the financial data.
-Power BI: Created an interactive dashboard for comprehensive data exploration and analysis.
-Excel: Built detailed financial models to provide a granular understanding of key metrics.
-SQL Server: Stored and managed the project data, retrieving insights through structured queries.
-Project Artifacts
+Tableau
+Power BI
+Excel
+SQL Server
+
 
 Tableau Dashboard
 [Link to Tableau Dashboard]
