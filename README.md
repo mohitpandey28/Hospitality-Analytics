@@ -11,7 +11,8 @@ SQL Server
 
 
 Tableau Dashboard
-
+![Screenshot 2023-12-14 at 8 38 48 PM](https://github.com/mohitpandey28/Hospitality-Analytics/assets/149960816/ec58fc69-71e2-4a16-8450-d596ab95d714)
+![Screenshot 2023-12-14 at 8 38 26 PM](https://github.com/mohitpandey28/Hospitality-Analytics/assets/149960816/fc209466-c39d-4bfb-9464-32faef6d9e55)
 
 
 
