@@ -1,6 +1,6 @@
 Overview
 
-Welcome to the Bank Analytics Project, where I conducted an in-depth analysis of financial data to derive meaningful insights for strategic decision-making. The project involves the creation of interactive dashboards using Tableau, Power BI, and Excel, coupled with data retrieval from a SQL Server database.
+Welcome to the Hospitality Analytics Project, where I conducted an in-depth analysis of financial data to derive meaningful insights for strategic decision-making. The project involves the creation of interactive dashboards using Tableau, Power BI, and Excel, coupled with data retrieval from a SQL Server database.
 
 Technologies Used:
 
