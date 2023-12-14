@@ -11,7 +11,9 @@ SQL Server
 
 
 Tableau Dashboard
-[Link to Tableau Dashboard]
+
+
+
 
 The Tableau dashboard offers an intuitive and visually appealing interface for exploring key financial metrics.
 Tableau Dashboard Screenshot
