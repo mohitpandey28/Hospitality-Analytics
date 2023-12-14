@@ -2,11 +2,11 @@ Overview
 
 Welcome to the Bank Analytics Project, where I conducted an in-depth analysis of financial data to derive meaningful insights for strategic decision-making. The project involves the creation of interactive dashboards using Tableau, Power BI, and Excel, coupled with data retrieval from a SQL Server database.
 
-Technologies Used
+Technologies Used:
 
-Tableau
-Power BI
-Excel
+Tableau,
+Power BI,
+Excel,
 SQL Server
 
 
@@ -26,7 +26,7 @@ The Power BI dashboard provides an interactive experience, allowing users to div
 Power BI Dashboard Screenshot
 
 Excel Financial Models
-[Link to Excel Financial Models]
+
 
 Excel was utilized to create comprehensive financial models, offering detailed insights into various financial aspects.
 Excel Financial Model Screenshot
