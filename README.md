@@ -20,7 +20,7 @@ The Tableau dashboard offers an intuitive and visually appealing interface for e
 Tableau Dashboard Screenshot
 
 Power BI Dashboard
-[Link to Power BI Dashboard]
+
 
 The Power BI dashboard provides an interactive experience, allowing users to dive deep into the data and extract valuable insights.
 Power BI Dashboard Screenshot
