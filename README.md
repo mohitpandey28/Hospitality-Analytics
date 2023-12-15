@@ -20,7 +20,7 @@ The Tableau dashboard offers an intuitive and visually appealing interface for e
 Tableau Dashboard Screenshot
 
 Power BI Dashboard
-
+![WhatsApp Image 2023-12-15 at 09 36 42](https://github.com/mohitpandey28/Hospitality-Analytics/assets/149960816/4b7297cf-86f3-451f-8a49-a756b0bf51ec)
 
 The Power BI dashboard provides an interactive experience, allowing users to dive deep into the data and extract valuable insights.
 Power BI Dashboard Screenshot
