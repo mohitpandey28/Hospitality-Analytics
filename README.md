@@ -45,6 +45,7 @@ Occupancy Metrics:
 Occupancy Rate (OCC): The average occupancy rate over the specified period is [insert percentage]. This indicates the efficiency of room utilization.
 
 Revenue Metrics:
+
 Total Revenue: The total revenue generated during the period is [insert total revenue]. This includes both rooms revenue and other sources.
 
 ADR (Average Daily Rate): The average daily rate is [insert ADR]. This reflects the average revenue generated per room sold.
