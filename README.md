@@ -39,7 +39,9 @@ sql
 
 
 Key Findings:
+
 Occupancy Metrics:
+
 Occupancy Rate (OCC): The average occupancy rate over the specified period is [insert percentage]. This indicates the efficiency of room utilization.
 
 Revenue Metrics:
