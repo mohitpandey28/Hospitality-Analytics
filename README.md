@@ -4,10 +4,10 @@ Welcome to the Hospitality Analytics Project, where I conducted an in-depth anal
 
 ## Technologies Used:
 
-### Tableau,
-### Power BI,
-### Excel,
-### SQL Server
+**Tableau**,
+**Power BI**,
+**Excel**,
+**SQL Server**
 
 
 #### Tableau Dashboard
